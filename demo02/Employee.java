@@ -1,4 +1,4 @@
-package com.atjianyi.demo2;
+package com.atjianyi.demo02;
 
 public class Employee {
     public int num;

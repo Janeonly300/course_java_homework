@@ -1,6 +1,4 @@
-package com.atjianyi.Demo1;
-
-import java.io.Serializable;
+package com.atjianyi.Demo01;
 
 /**
  * @author JaneOnly

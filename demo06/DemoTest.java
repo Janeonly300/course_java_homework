@@ -1,6 +1,5 @@
-package com.atjianyi.demo6;
+package com.atjianyi.demo06;
 
-import java.lang.reflect.Field;
 import java.util.Scanner;
 
 /**

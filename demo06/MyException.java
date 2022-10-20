@@ -1,4 +1,4 @@
-package com.atjianyi.demo6;
+package com.atjianyi.demo06;
 
 public class MyException extends RuntimeException{
     private String message;
